@@ -1,0 +1,7 @@
+# SPDX-FileCopyrightText: 2026 Marcin Serwin <marcin@serwin.dev>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+/repo/
+/.flatpak-builder/
+/.direnv/
